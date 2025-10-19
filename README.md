@@ -38,6 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height="40" alt="kotlin logo"  />
 </div>
 
-###
-
-<img src="https://github.com/LouisyDalch/LouisyDalch/blob/main/snake.yml" alt="Snake animation" />
