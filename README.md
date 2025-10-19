@@ -1,5 +1,0 @@
-- 👋 Hi, I’m Louisy
-- 😄 Pronouns: she/her
-- 🌎 I'm brasilian
-- 👀 I’m interested on mobile programming
-- 💻 Technician in Systems Development
