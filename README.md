@@ -40,4 +40,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LouisyDalch/LouisyDalch/snake.svg" alt="Snake animation" />
+<img src="https://github.com/LouisyDalch/LouisyDalch/blob/main/snake.yml" alt="Snake animation" />
